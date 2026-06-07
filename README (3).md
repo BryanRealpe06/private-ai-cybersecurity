@@ -143,8 +143,8 @@ Este proyecto es únicamente para fines educativos y de investigación en cibers
 ## 👤 Autor
 
 **Bryan Realpe**
-- LinkedIn: [linkedin.com/in/bryanrealpe](https://linkedin.com/in/bryanrealpe)
-- GitHub: [github.com/bryanrealpe](https://github.com/bryanrealpe)
+- LinkedIn: https://www.linkedin.com/in/bryan-realpe-b13897330/
+- GitHub: https://github.com/BryanRealpe06
 
 ---
 
